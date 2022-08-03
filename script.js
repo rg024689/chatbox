@@ -4,8 +4,9 @@
 
     const BOT_MSGS = [
         "Hi, how are you?",
-        "Ohh... I can't understand what you trying to say. Sorry!",
-        "I like to do coding... But I don't know how to code!",
+        "I am fine. Thank you!",
+        "Sorry, It is not avalable...",
+        "My name is Ronak's Chatbot",
         "Sorry if my answers are not relevant. :))",
         "I feel sleepy! :("
     ];
